@@ -1,6 +1,4 @@
-[style.css](https://github.com/user-attachments/files/34187277/style.css)
-[kaca.html](https://github.com/user-attachments/files/34187278/kaca.html)[index.html](https://github.com/user-attachments/files/34187298/index.html)
-[kaca.js](https://github.com/user-attachments/files/34187279/kaca.js)
+
 <!DOCTYPE html>
 <html>
   <head>
